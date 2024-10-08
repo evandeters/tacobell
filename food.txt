@@ -1,0 +1,936 @@
+Breakfast
+-------------------------------------------------
+Name:  Cheesy Toasted Breakfast Burrito Bacon
+Category:  Breakfast
+Price:  2.19
+
+Name:  Cheesy Toasted Breakfast Burrito Sausage
+Category:  Breakfast
+Price:  2.19
+
+Name:  Cheesy Toasted Breakfast Burrito Potato
+Category:  Breakfast
+Price:  1.99
+
+Name:  Grande Toasted Breakfast Burrito Steak
+Category:  Breakfast
+Price:  5.49
+
+Name:  Grande Toasted Breakfast Burrito Sausage
+Category:  Breakfast
+Price:  4.49
+
+Name:  Grande Toasted Breakfast Burrito Bacon
+Category:  Breakfast
+Price:  4.49
+
+Name:  Grande Toasted Breakfast Burrito Combo
+Category:  Breakfast
+Price:  7.49
+
+Name:  Breakfast Quesadilla Sausage
+Category:  Breakfast
+Price:  4.49
+
+Name:  Breakfast Quesadilla Bacon
+Category:  Breakfast
+Price:  4.49
+
+Name:  Breakfast Quesadilla Steak
+Category:  Breakfast
+Price:  5.49
+
+Name:  Breakfast Quesadilla Combo
+Category:  Breakfast
+Price:  7.49
+
+Name:  Breakfast California Crunchwrap
+Category:  Breakfast
+Price:  4.59
+
+Name:  Breakfast Crunchwrap Bacon
+Category:  Breakfast
+Price:  4.49
+
+Name:  Breakfast Crunchwrap Sausage
+Category:  Breakfast
+Price:  4.49
+
+Name:  Breakfast Crunchwrap Combo
+Category:  Breakfast
+Price:  7.49
+
+Name:  Hash Brown
+Category:  Breakfast
+Price:  1.99
+
+Name:  Cinnabon Delights® 2 Pack
+Category:  Breakfast
+Price:  2.49
+
+Name:  Cinnabon Delights® 12 Pack
+Category:  Breakfast
+Price:  7.99
+
+Name:  Premium Hot Coffee
+Category:  Breakfast
+Price:  2.49
+
+Name:  Hot Cinnabon Delights® Coffee
+Category:  Breakfast
+Price:  2.99
+
+Name:  Regular Iced Coffee
+Category:  Breakfast
+Price:  2.49
+
+Name:  Iced Cinnabon Delights® Coffee
+Category:  Breakfast
+Price:  2.99
+
+Name:  Breakfast Salsa
+Category:  Breakfast
+Price:  0
+
+Best sellers
+-------------------------------------------------
+Name:  Build Your Own Cravings Box
+Category:  Best sellers
+Price:  7.99
+
+Name:  Soft Taco
+Category:  Best sellers
+Price:  1.99
+
+Name:  Crunchy Taco
+Category:  Best sellers
+Price:  1.99
+
+Name:  Cheesy Gordita Crunch
+Category:  Best sellers
+Price:  5.49
+
+Name:  Chalupa Supreme®
+Category:  Best sellers
+Price:  4.99
+
+Name:  Cheesy Bean and Rice Burrito
+Category:  Best sellers
+Price:  1.69
+
+Name:  Chicken Quesadilla
+Category:  Best sellers
+Price:  5.99
+
+Name:  Spicy Potato Soft Taco
+Category:  Best sellers
+Price:  1.49
+
+Name:  Crunchwrap Supreme®
+Category:  Best sellers
+Price:  5.89
+
+Name:  Beefy 5-Layer Burrito
+Category:  Best sellers
+Price:  4.69
+
+Name:  Nachos BellGrande®
+Category:  Best sellers
+Price:  6.79
+
+Name:  Cinnamon Twists
+Category:  Best sellers
+Price:  1.39
+
+Big cheez-it®
+-------------------------------------------------
+Name:  Big Cheez-It® Crunchwrap Supreme®
+Category:  Big cheez-it®
+Price:  6.29
+
+Name:  Big Cheez-It® Tostada
+Category:  Big cheez-it®
+Price:  3.99
+
+Name:  Big Cheez-It® Crunchwrap Combo
+Category:  Big cheez-it®
+Price:  10.99
+
+Name:  Big Cheez-It® Cracker
+Category:  Big cheez-it®
+Price:  1.29
+
+Cantina chicken menu
+-------------------------------------------------
+Name:  Cantina Chicken Crispy Taco Meal
+Category:  Cantina chicken menu
+Price:  9.99
+
+Name:  Cantina Chicken Burrito Meal
+Category:  Cantina chicken menu
+Price:  11.99
+
+Name:  Cantina Chicken Quesadilla Meal
+Category:  Cantina chicken menu
+Price:  10.99
+
+Name:  Cantina Chicken Crispy Taco
+Category:  Cantina chicken menu
+Price:  3.49
+
+Name:  Cantina Chicken Soft Taco
+Category:  Cantina chicken menu
+Price:  3.49
+
+Name:  Cantina Chicken Burrito
+Category:  Cantina chicken menu
+Price:  6.49
+
+Name:  Cantina Chicken Quesadilla
+Category:  Cantina chicken menu
+Price:  6.99
+
+Name:  Cantina Chicken Bowl
+Category:  Cantina chicken menu
+Price:  8.49
+
+Name:  Avocado Verde Salsa Sauce Packet
+Category:  Cantina chicken menu
+Price:  0.25
+
+New
+-------------------------------------------------
+Name:  Disha Hot™ Discovery Box™
+Category:  New
+Price:  9.99
+
+Name:  Disha Hot™ Hot Sauce Packet
+Category:  New
+Price:  0.25
+
+Name:  Big Cheez-It® Crunchwrap Combo
+Category:  New
+Price:  10.99
+
+Name:  Big Cheez-It® Crunchwrap Supreme®
+Category:  New
+Price:  6.29
+
+Name:  Big Cheez-It® Tostada
+Category:  New
+Price:  3.99
+
+Name:  Luxe Cravings Box
+Category:  New
+Price:  7
+
+Name:  Large Nacho Fries
+Category:  New
+Price:  3.59
+
+Name:  Nacho Fries
+Category:  New
+Price:  2.59
+
+Name:  MTN DEW BAJA BLAST™ Gelato
+Category:  New
+Price:  3.99
+
+Name:  Vanilla Creme Limonada Freeze
+Category:  New
+Price:  3.99
+
+Name:  Limonada Freeze
+Category:  New
+Price:  3.99
+
+Online exclusives
+-------------------------------------------------
+Name:  Veggie Build Your Own Cravings Box
+Category:  Online exclusives
+Price:  5.99
+
+Name:  Build Your Own Cravings Box
+Category:  Online exclusives
+Price:  7.99
+
+Name:  Meal for 2
+Category:  Online exclusives
+Price:  13.33
+
+Name:  Meal for 4
+Category:  Online exclusives
+Price:  23.33
+
+Name:  Veggie Meal for 2
+Category:  Online exclusives
+Price:  13.33
+
+Name:  Drinks Party Pack
+Category:  Online exclusives
+Price:  6
+
+Combos
+-------------------------------------------------
+Name:  Disha Hot™ Discovery Box™
+Category:  Combos
+Price:  9.99
+
+Name:  Big Cheez-It® Crunchwrap Combo
+Category:  Combos
+Price:  10.99
+
+Name:  Luxe Cravings Box
+Category:  Combos
+Price:  7
+
+Name:  Cantina Chicken Crispy Taco Meal
+Category:  Combos
+Price:  9.99
+
+Name:  Cantina Chicken Burrito Meal
+Category:  Combos
+Price:  11.99
+
+Name:  Cantina Chicken Quesadilla Meal
+Category:  Combos
+Price:  10.99
+
+Name:  Veggie Build Your Own Cravings Box
+Category:  Combos
+Price:  5.99
+
+Name:  Build Your Own Cravings Box
+Category:  Combos
+Price:  7.99
+
+Name:  Steak Grilled Cheese Burrito Combo
+Category:  Combos
+Price:  9.99
+
+Name:  Mexican Pizza Combo
+Category:  Combos
+Price:  11.49
+
+Name:  Chicken Quesadilla Combo
+Category:  Combos
+Price:  10.29
+
+Name:  Nachos BellGrande® Combo
+Category:  Combos
+Price:  10.99
+
+Name:  2 Chicken Chalupas Supreme Combo
+Category:  Combos
+Price:  12.99
+
+Name:  Crunchwrap Supreme® Combo
+Category:  Combos
+Price:  10.29
+
+Name:  3 Crunchy Tacos Combo
+Category:  Combos
+Price:  8.79
+
+Name:  3 Crunchy Tacos Supreme® Combo
+Category:  Combos
+Price:  10.99
+
+Name:  3 Doritos® Locos Tacos Combo
+Category:  Combos
+Price:  10.69
+
+Name:  3 Doritos® Locos Tacos Supreme Combo
+Category:  Combos
+Price:  12.39
+
+Name:  3 Soft Tacos Combo
+Category:  Combos
+Price:  8.79
+
+Name:  3 Soft Tacos Supreme® Combo
+Category:  Combos
+Price:  10.99
+
+Name:  Burrito Supreme® Combo
+Category:  Combos
+Price:  10.69
+
+Groups
+-------------------------------------------------
+Name:  Meal for 2
+Category:  Groups
+Price:  13.33
+
+Name:  Meal for 4
+Category:  Groups
+Price:  23.33
+
+Name:  Veggie Meal for 2
+Category:  Groups
+Price:  13.33
+
+Name:  Taco & Burrito Cravings Pack
+Category:  Groups
+Price:  20.99
+
+Name:  Taco Party Pack
+Category:  Groups
+Price:  22.99
+
+Name:  Supreme Taco Party Pack
+Category:  Groups
+Price:  34.99
+
+Name:  Soft Taco Party Pack
+Category:  Groups
+Price:  22.99
+
+Name:  Supreme Soft Taco Party Pack
+Category:  Groups
+Price:  34.99
+
+Name:  Variety Taco Party Pack
+Category:  Groups
+Price:  28.99
+
+Name:  Supreme Variety Taco Party Pack
+Category:  Groups
+Price:  37.99
+
+Name:  Drinks Party Pack
+Category:  Groups
+Price:  6
+
+Specialties
+-------------------------------------------------
+Name:  Big Cheez-It® Crunchwrap Supreme®
+Category:  Specialties
+Price:  6.29
+
+Name:  Big Cheez-It® Tostada
+Category:  Specialties
+Price:  3.99
+
+Name:  Large Nacho Fries
+Category:  Specialties
+Price:  3.59
+
+Name:  Nacho Fries
+Category:  Specialties
+Price:  2.59
+
+Name:  Stacker
+Category:  Specialties
+Price:  2.49
+
+Name:  3 Cheese Chicken Flatbread Melt
+Category:  Specialties
+Price:  2.69
+
+Name:  Mexican Pizza
+Category:  Specialties
+Price:  5.89
+
+Name:  Veggie Mexican Pizza
+Category:  Specialties
+Price:  5.89
+
+Name:  Crunchwrap Supreme®
+Category:  Specialties
+Price:  5.89
+
+Name:  Black Bean Crunchwrap Supreme®
+Category:  Specialties
+Price:  5.89
+
+Name:  Cheesy Roll Up
+Category:  Specialties
+Price:  1.29
+
+Tacos
+-------------------------------------------------
+Name:  Cantina Chicken Crispy Taco
+Category:  Tacos
+Price:  3.49
+
+Name:  Cantina Chicken Soft Taco
+Category:  Tacos
+Price:  3.49
+
+Name:  Double Stacked Taco
+Category:  Tacos
+Price:  2.29
+
+Name:  Soft Taco
+Category:  Tacos
+Price:  1.99
+
+Name:  Soft Taco Supreme®
+Category:  Tacos
+Price:  3.09
+
+Name:  Spicy Potato Soft Taco
+Category:  Tacos
+Price:  1.49
+
+Name:  Crunchy Taco
+Category:  Tacos
+Price:  1.99
+
+Name:  Crunchy Taco Supreme®
+Category:  Tacos
+Price:  3.09
+
+Name:  Nacho Cheese Doritos® Locos Tacos
+Category:  Tacos
+Price:  2.99
+
+Name:  Nacho Cheese Doritos® Locos Tacos Supreme®
+Category:  Tacos
+Price:  4.09
+
+Name:  Chalupa Supreme®
+Category:  Tacos
+Price:  4.99
+
+Name:  Black Bean Chalupa Supreme®
+Category:  Tacos
+Price:  4.99
+
+Name:  Cheesy Gordita Crunch
+Category:  Tacos
+Price:  5.49
+
+Name:  Doritos® Cheesy Gordita Crunch - Nacho Cheese
+Category:  Tacos
+Price:  5.79
+
+Burritos
+-------------------------------------------------
+Name:  Cantina Chicken Burrito
+Category:  Burritos
+Price:  6.49
+
+Name:  Chicken Enchilada Burrito
+Category:  Burritos
+Price:  2.99
+
+Name:  Cheesy Double Beef Burrito
+Category:  Burritos
+Price:  2.99
+
+Name:  Grilled Cheese Burrito
+Category:  Burritos
+Price:  5.29
+
+Name:  Black Bean Grilled Cheese Burrito
+Category:  Burritos
+Price:  5.29
+
+Name:  Bean Burrito
+Category:  Burritos
+Price:  2.29
+
+Name:  Beefy 5-Layer Burrito
+Category:  Burritos
+Price:  4.69
+
+Name:  Burrito Supreme®
+Category:  Burritos
+Price:  5.29
+
+Name:  Cheesy Bean and Rice Burrito
+Category:  Burritos
+Price:  1.69
+
+Quesadillas
+-------------------------------------------------
+Name:  Cantina Chicken Quesadilla
+Category:  Quesadillas
+Price:  6.99
+
+Name:  Chicken Quesadilla
+Category:  Quesadillas
+Price:  5.99
+
+Name:  Steak Quesadilla
+Category:  Quesadillas
+Price:  6.29
+
+Name:  Cheese Quesadilla
+Category:  Quesadillas
+Price:  4.99
+
+Nachos
+-------------------------------------------------
+Name:  Loaded Beef Nachos
+Category:  Nachos
+Price:  2.99
+
+Name:  Nachos BellGrande®
+Category:  Nachos
+Price:  6.79
+
+Name:  Chips and Guacamole
+Category:  Nachos
+Price:  3.29
+
+Name:  Chips and Nacho Cheese Sauce
+Category:  Nachos
+Price:  2.39
+
+Cravings value menu
+-------------------------------------------------
+Name:  Big Cheez-It® Tostada
+Category:  Cravings value menu
+Price:  3.99
+
+Name:  Big Cheez-It® Cracker
+Category:  Cravings value menu
+Price:  1.29
+
+Name:  Cheesy Roll Up
+Category:  Cravings value menu
+Price:  1.29
+
+Name:  Spicy Potato Soft Taco
+Category:  Cravings value menu
+Price:  1.49
+
+Name:  Cheesy Bean and Rice Burrito
+Category:  Cravings value menu
+Price:  1.69
+
+Name:  Double Stacked Taco
+Category:  Cravings value menu
+Price:  2.29
+
+Name:  Stacker
+Category:  Cravings value menu
+Price:  2.49
+
+Name:  3 Cheese Chicken Flatbread Melt
+Category:  Cravings value menu
+Price:  2.69
+
+Name:  Cheesy Fiesta Potatoes
+Category:  Cravings value menu
+Price:  2.79
+
+Name:  Chicken Enchilada Burrito
+Category:  Cravings value menu
+Price:  2.99
+
+Name:  Cheesy Double Beef Burrito
+Category:  Cravings value menu
+Price:  2.99
+
+Name:  Loaded Beef Nachos
+Category:  Cravings value menu
+Price:  2.99
+
+Sides & sweets
+-------------------------------------------------
+Name:  Disha Hot™ Hot Sauce Packet
+Category:  Sides & sweets
+Price:  0.25
+
+Name:  Large Nacho Fries
+Category:  Sides & sweets
+Price:  3.59
+
+Name:  Nacho Fries
+Category:  Sides & sweets
+Price:  2.59
+
+Name:  MTN DEW BAJA BLAST™ Gelato
+Category:  Sides & sweets
+Price:  3.99
+
+Name:  Cheesy Fiesta Potatoes
+Category:  Sides & sweets
+Price:  2.79
+
+Name:  Chips and Guacamole
+Category:  Sides & sweets
+Price:  3.29
+
+Name:  Chips and Nacho Cheese Sauce
+Category:  Sides & sweets
+Price:  2.39
+
+Name:  Black Beans
+Category:  Sides & sweets
+Price:  2.69
+
+Name:  Black Beans and Rice
+Category:  Sides & sweets
+Price:  2.69
+
+Name:  Pintos N Cheese
+Category:  Sides & sweets
+Price:  2.69
+
+Name:  Cinnamon Twists
+Category:  Sides & sweets
+Price:  1.39
+
+Name:  Cinnabon Delights® 2 Pack
+Category:  Sides & sweets
+Price:  2.49
+
+Name:  Cinnabon Delights® 12 Pack
+Category:  Sides & sweets
+Price:  7.99
+
+Name:  Avocado Verde Salsa Sauce Packet
+Category:  Sides & sweets
+Price:  0.25
+
+Name:  Mild Sauce Packet
+Category:  Sides & sweets
+Price:  0
+
+Name:  Hot Sauce Packet
+Category:  Sides & sweets
+Price:  0
+
+Name:  Fire Sauce Packet
+Category:  Sides & sweets
+Price:  0
+
+Name:  Diablo Sauce Packet
+Category:  Sides & sweets
+Price:  0
+
+Name:  Nacho Cheese Sauce
+Category:  Sides & sweets
+Price:  0.8
+
+Name:  Reduced-Fat Sour Cream
+Category:  Sides & sweets
+Price:  0.8
+
+Name:  Creamy Jalapeño Sauce
+Category:  Sides & sweets
+Price:  0.7
+
+Name:  Guacamole
+Category:  Sides & sweets
+Price:  1
+
+Name:  Chipotle Sauce
+Category:  Sides & sweets
+Price:  0.7
+
+Name:  Avocado Ranch Sauce
+Category:  Sides & sweets
+Price:  0.7
+
+Name:  Spicy Ranch
+Category:  Sides & sweets
+Price:  0.7
+
+Name:  Red Sauce
+Category:  Sides & sweets
+Price:  0.25
+
+Name:  Mexican Pizza Sauce
+Category:  Sides & sweets
+Price:  0.5
+
+Name:  Big Cheez-It® Cracker
+Category:  Sides & sweets
+Price:  1.29
+
+Drinks
+-------------------------------------------------
+Name:  Vanilla Creme Limonada Freeze
+Category:  Drinks
+Price:  3.99
+
+Name:  Limonada Freeze
+Category:  Drinks
+Price:  3.99
+
+Name:  MTN DEW® Baja Blast® Freeze
+Category:  Drinks
+Price:  3.79
+
+Name:  Pepsi®
+Category:  Drinks
+Price:  2.79
+
+Name:  Diet Pepsi®
+Category:  Drinks
+Price:  3.19
+
+Name:  Pepsi® Zero Sugar
+Category:  Drinks
+Price:  2.79
+
+Name:  MTN DEW®
+Category:  Drinks
+Price:  2.79
+
+Name:  MTN DEW® Zero
+Category:  Drinks
+Price:  2.79
+
+Name:  MTN DEW® Baja Blast®
+Category:  Drinks
+Price:  2.79
+
+Name:  MTN DEW® Baja Blast™ Zero Sugar
+Category:  Drinks
+Price:  2.79
+
+Name:  Dr Pepper®
+Category:  Drinks
+Price:  2.79
+
+Name:  Diet Dr Pepper®
+Category:  Drinks
+Price:  3.19
+
+Name:  Starry®
+Category:  Drinks
+Price:  2.99
+
+Name:  G2 Gatorade® Fruit Punch
+Category:  Drinks
+Price:  2.79
+
+Name:  Dole® Lemonade Strawberry Squeeze
+Category:  Drinks
+Price:  2.79
+
+Name:  Brisk® Mango Fiesta
+Category:  Drinks
+Price:  2.79
+
+Name:  Brisk® Dragon Paradise™ Sparkling Iced Tea
+Category:  Drinks
+Price:  2.79
+
+Name:  Lipton® Unsweetened Iced Tea
+Category:  Drinks
+Price:  2.79
+
+Name:  Tropicana® Orange Juice
+Category:  Drinks
+Price:  2.49
+
+Name:  Premium Hot Coffee
+Category:  Drinks
+Price:  2.49
+
+Name:  Hot Cinnabon Delights® Coffee
+Category:  Drinks
+Price:  2.99
+
+Name:  Regular Iced Coffee
+Category:  Drinks
+Price:  2.49
+
+Name:  Iced Cinnabon Delights® Coffee
+Category:  Drinks
+Price:  2.99
+
+Name:  Drinks Party Pack
+Category:  Drinks
+Price:  6
+
+Bowls
+-------------------------------------------------
+Name:  Cantina Chicken Bowl
+Category:  Bowls
+Price:  8.49
+
+Name:  Veggie Bowl
+Category:  Bowls
+Price:  8.49
+
+Veggie cravings
+-------------------------------------------------
+Name:  Veggie Build Your Own Cravings Box
+Category:  Veggie cravings
+Price:  5.99
+
+Name:  Veggie Meal for 2
+Category:  Veggie cravings
+Price:  13.33
+
+Name:  Veggie Bowl
+Category:  Veggie cravings
+Price:  8.49
+
+Name:  Bean Burrito
+Category:  Veggie cravings
+Price:  2.29
+
+Name:  Cheesy Bean and Rice Burrito
+Category:  Veggie cravings
+Price:  1.69
+
+Name:  Spicy Potato Soft Taco
+Category:  Veggie cravings
+Price:  1.49
+
+Name:  Black Bean Chalupa Supreme®
+Category:  Veggie cravings
+Price:  4.99
+
+Name:  Black Bean Crunchwrap Supreme®
+Category:  Veggie cravings
+Price:  5.89
+
+Name:  Veggie Mexican Pizza
+Category:  Veggie cravings
+Price:  5.89
+
+Name:  Cheese Quesadilla
+Category:  Veggie cravings
+Price:  4.99
+
+Name:  Cheesy Roll Up
+Category:  Veggie cravings
+Price:  1.29
+
+Name:  Cheesy Fiesta Potatoes
+Category:  Veggie cravings
+Price:  2.79
+
+Name:  Chips and Guacamole
+Category:  Veggie cravings
+Price:  3.29
+
+Name:  Chips and Nacho Cheese Sauce
+Category:  Veggie cravings
+Price:  2.39
+
+Name:  Black Beans
+Category:  Veggie cravings
+Price:  2.69
+
+Name:  Black Beans and Rice
+Category:  Veggie cravings
+Price:  2.69
+
+Name:  Pintos N Cheese
+Category:  Veggie cravings
+Price:  2.69
+
+Name:  Cinnamon Twists
+Category:  Veggie cravings
+Price:  1.39
+
+Name:  Cinnabon Delights® 2 Pack
+Category:  Veggie cravings
+Price:  2.49
+
+Name:  Cinnabon Delights® 12 Pack
+Category:  Veggie cravings
+Price:  7.99
+
